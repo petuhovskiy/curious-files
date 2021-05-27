@@ -1,4 +1,4 @@
-module github.com/petuhovskiy/go-template
+module github.com/petuhovskiy/curious-files
 
 go 1.16
 
